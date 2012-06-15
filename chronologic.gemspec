@@ -24,7 +24,7 @@ Gem::Specification.new do |s|
   s.add_dependency('hashie')
   s.add_dependency('multi_json')
   s.add_dependency('activesupport')
-  s.add_dependency('i18n', ["~> 0.5.0"])
+  s.add_dependency('i18n')
   s.add_dependency('sinatra', ["~> 1"])
 
   # HAX
